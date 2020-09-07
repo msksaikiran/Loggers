@@ -1,0 +1,5 @@
+com.mphasis.logger.DemoLogger [main] - com.mphasis.logger.DemoLogger.main(DemoLogger.java:47) from debug 
+com.mphasis.logger.DemoLogger [main] - com.mphasis.logger.DemoLogger.main(DemoLogger.java:48) from info 
+com.mphasis.logger.DemoLogger [main] - com.mphasis.logger.DemoLogger.main(DemoLogger.java:49) This is the info message 
+com.mphasis.logger.DemoLogger [main] - com.mphasis.logger.DemoLogger.main(DemoLogger.java:50) This is the error message 
+com.mphasis.logger.DemoLogger [main] - com.mphasis.logger.DemoLogger.main(DemoLogger.java:51) This is the fatal message 

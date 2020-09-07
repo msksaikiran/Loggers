@@ -1,0 +1,35 @@
+2020-08-22 22:10:50 DEBUG from debug
+2020-08-22 22:10:50 INFO  from info
+2020-08-22 22:10:50 WARN  This is the info message
+2020-08-22 22:10:50 ERROR This is the error message
+2020-08-22 22:10:50 FATAL This is the fatal message
+2020-08-22 22:12:02 DEBUG from debug
+2020-08-22 22:12:02 INFO  from info
+2020-08-22 22:12:02 WARN  This is the info message
+2020-08-22 22:12:02 ERROR This is the error message
+2020-08-22 22:12:02 FATAL This is the fatal message
+2020-08-22 22:20:19 DEBUG from debug
+2020-08-22 22:20:19 INFO  from info
+2020-08-22 22:20:19 WARN  This is the info message
+2020-08-22 22:20:19 ERROR This is the error message
+2020-08-22 22:20:19 FATAL This is the fatal message
+2020-08-22 22:20:25 DEBUG from debug
+2020-08-22 22:20:25 INFO  from info
+2020-08-22 22:20:25 WARN  This is the info message
+2020-08-22 22:20:25 ERROR This is the error message
+2020-08-22 22:20:25 FATAL This is the fatal message
+2020-08-22 22:20:40 DEBUG from debug
+2020-08-22 22:20:40 INFO  from info
+2020-08-22 22:20:40 WARN  This is the info message
+2020-08-22 22:20:40 ERROR This is the error message
+2020-08-22 22:20:40 FATAL This is the fatal message
+2020-08-22 22:20:53 DEBUG from debug
+2020-08-22 22:20:53 INFO  from info
+2020-08-22 22:20:53 WARN  This is the info message
+2020-08-22 22:20:53 ERROR This is the error message
+2020-08-22 22:20:53 FATAL This is the fatal message
+2020-08-22 22:21:09 DEBUG from debug
+2020-08-22 22:21:09 INFO  from info
+2020-08-22 22:21:09 WARN  This is the info message
+2020-08-22 22:21:09 ERROR This is the error message
+2020-08-22 22:21:09 FATAL This is the fatal message
